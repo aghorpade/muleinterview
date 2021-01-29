@@ -87,7 +87,27 @@ Enhance capabilities of api manager e.g. security,analytics on runtime api.
 RefLink- https://docs.mulesoft.com/api-manager/2.x/api-proxy-landing-page
 https://docs.mulesoft.com/api-manager/2.x/api-auto-discovery-new-concept
 
-#11 -
+#11 - how to connect mule applications deployed on cloudhub and datacentre which is hosted at customer location?
+
+
+#12 - what are different grant type in Oauth athuntication?
+
+#13 how oauth works and do we need to do any custom configuaration on policies
+
+#14 what is difference between dedicated and shared load balancer?
+
+#15 - what is raml fragment? how to use it?
+
+#16 - what are differenct mechanism to make sure applicatiosn and data is secure?
+
+#17 - which approach will you choose when you have two difference mule runtime versions ? cloudhub,customer hosted or runtime fabric?
+
+#18 - what are contents of your LLD?
+
+#19 - what are cloudhub rest api's and how we can use them?
+
+#20 - how to use object store in case of oauth authentication wwhile calling third party service?
+
 
 
 
